@@ -1,4 +1,4 @@
-# Oops/Morozko
+# Oops/MorozkoDoctrineBridge
 
 [![Build Status](https://img.shields.io/travis/o2ps/MorozkoDoctrineBridge.svg)](https://travis-ci.org/o2ps/MorozkoDoctrineBridge)
 [![Downloads this Month](https://img.shields.io/packagist/dm/oops/morozko-doctrine-bridge.svg)](https://packagist.org/packages/oops/morozko-doctrine-bridge)
