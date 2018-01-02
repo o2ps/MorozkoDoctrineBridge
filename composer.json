@@ -19,7 +19,7 @@
 		"php": ">= 7.1.0",
 		"doctrine/orm": "^2.4",
 		"nette/di": "^2.4.10",
-		"oops/morozko": "dev-master"
+		"oops/morozko": "^1.0.0@alpha"
 	},
 	"require-dev": {
 		"kdyby/doctrine": "dev-master",
