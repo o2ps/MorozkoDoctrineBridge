@@ -22,7 +22,7 @@
 		"oops/morozko": "dev-master"
 	},
 	"require-dev": {
-		"kdyby/doctrine": "^3.2.0",
+		"kdyby/doctrine": "dev-master",
 		"mockery/mockery": "^1.0.0",
 		"nette/bootstrap": "^2.4.0",
 		"nette/tester": "^2.0.0"

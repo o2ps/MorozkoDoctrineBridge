@@ -5,7 +5,6 @@ extensions:
 	annotations: Kdyby\Annotations\DI\AnnotationsExtension
 	console: Kdyby\Console\DI\ConsoleExtension
 	doctrine: Kdyby\Doctrine\DI\OrmExtension
-	events: Kdyby\Events\DI\EventsExtension
 
 
 doctrine:
