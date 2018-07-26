@@ -1,5 +1,7 @@
 # Oops/MorozkoDoctrineBridge
 
+:warning: **THIS PACKAGE IS NO LONGER MAINTAINED.** Instead, you can use any Symfony/Console integration such as [contributte/console](https://github.com/contributte/console) and use the `orm:generate-proxies` command directly.
+
 [![Build Status](https://img.shields.io/travis/o2ps/MorozkoDoctrineBridge.svg)](https://travis-ci.org/o2ps/MorozkoDoctrineBridge)
 [![Downloads this Month](https://img.shields.io/packagist/dm/oops/morozko-doctrine-bridge.svg)](https://packagist.org/packages/oops/morozko-doctrine-bridge)
 [![Latest stable](https://img.shields.io/packagist/v/oops/morozko-doctrine-bridge.svg)](https://packagist.org/packages/oops/morozko-doctrine-bridge)
